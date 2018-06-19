@@ -1,0 +1,22 @@
+{
+  "fitbit": {
+    "appUUID": "747394a3-c0f1-4949-90b0-1c257f3dc714",
+    "appType": "clockface",
+    "appDisplayName": "style",
+    "iconFile": "resources/icon.png",
+    "wipeColor": "",
+    "requestedPermissions": [
+      "access_activity",
+      "access_heart_rate"
+    ],
+    "buildTargets": [
+      "higgs",
+      "meson"
+    ],
+    "i18n": {
+      "en": {
+        "name": "style"
+      }
+    }
+  }
+}

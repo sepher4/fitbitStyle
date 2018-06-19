@@ -1,0 +1,9 @@
+<svg>
+  <image href="styleBG.png" load="sync" />
+  <image href="heartOutlineRS.png" id="heart" load="sync" />
+  <text id="batteryLabel" />
+  <text id="heartrateLabel" />
+  <text id="dateLabel" />
+  <text id="myLabel" />
+  <text id="stepsLabel" />
+</svg>
